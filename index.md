@@ -89,10 +89,10 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
   </div>
   <div>
-    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
@@ -102,7 +102,7 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 ### SUP Spot Finder App
 
-<img src="assets/images/android_app.png" alt="SUP App Interface" style="float: left; width: 200px; margin: 0 0 1rem 2rem; border-radius: 8px;">
+<img src="assets/images/android_app.png" alt="SUP App Interface" style="float: left; width: 200px; margin: 1rem 2rem 1rem 2rem; border-radius: 8px;">
 
 
 <p><strong>Technologies:</strong> Android, Java, GPS</p>
