@@ -20,11 +20,13 @@ title: Simon Pauka - Robotics Engineer
 
 ## About Me
 
-<img src="assets/images/car_engine.jpg" alt="Simon working on car engine" style="float: right; width: 300px; margin: 0 0 1rem 2rem; border-radius: 8px;">
+<img src="assets/images/car_engine.jpg" alt="Simon working on car engine" class="float-right">
 
 I've always been interested in technology, from joining a robotics team and building my own LEGO Robots as a kid to working on my campervan's engine. This interest led me to study mechatronics and robotics, where I can combine mechanical engineering, electronics, and software development.
 
 I'm a mechatronics engineer with 6 years experience in the commercial vehicle industry, focusing on autonomous systems and machine learning. I enjoy working on projects that connect theoretical concepts with practical applications.
+
+<div class="clear-float"></div>
 
 ---
 

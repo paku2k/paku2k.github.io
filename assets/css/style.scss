@@ -3,25 +3,44 @@
 
 @import "{{ site.theme }}";
 
-/* Custom heading colors */
+/* Custom heading colors - using !important to override inline styles */
 h1 {
-  color: #1565c0; /* Dark blue */
+  color: #1565c0 !important; /* Dark blue */
 }
 
 h2 {
-  color: #2e7d32; /* Dark green */
+  color: #2e7d32 !important; /* Dark green */
 }
 
 h3 {
-  color: #d84315; /* Dark orange */
+  color: #d84315 !important; /* Dark orange */
 }
 
 h4 {
-  color: #6a1b9a; /* Purple */
+  color: #6a1b9a !important; /* Purple */
 }
 
 h5, h6 {
-  color: #37474f; /* Dark gray */
+  color: #37474f !important; /* Dark gray */
+}
+
+/* Clear floats to prevent text wrapping issues */
+.clear-float {
+  clear: both;
+}
+
+/* Ensure sections start below floating elements */
+h2, h3 {
+  clear: both;
+  padding-top: 1rem;
+}
+
+/* Style for floating images */
+.float-right {
+  float: right;
+  width: 300px;
+  margin: 0 0 1rem 2rem;
+  border-radius: 8px;
 }
 
 /* Optional: Add hover effects */
