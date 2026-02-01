@@ -73,17 +73,17 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <video width="100%" height="300px" autoplay loop muted playsinline style="border-radius: 8px; object-fit: cover;">
+    <video width="100%" height="330px" autoplay loop muted playsinline style="border-radius: 8px; object-fit: cover;">
       <source src="videos/bird_detector_1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div>
-    <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 100%; height: 330px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
-<p><strong>Technologies:</strong> Python, OpenCV, YOLOv8</p>
+<p><strong>Technologies:</strong> Python, OpenCV, YOLO, Computer Vision</p>
 <p>A bird detection and tracking system using real-time computer vision with an automated pan-tilt mechanism for following detected birds.</p>
 <p><a href="https://github.com/paku2k/bird_detector">View Project on GitHub</a></p>
 
@@ -91,14 +91,14 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
   </div>
   <div>
-    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
-<p><strong>Technologies:</strong> Arduino, IoT, Sensors</p>
+<p><strong>Technologies:</strong> Arduino, IoT, Sensors, Embedded Systems</p>
 <p>An automated chicken coop door system that opens and closes based on light conditions, with remote monitoring capabilities.</p>
 <p><a href="https://github.com/paku2k/Eggvault_dev">View Project on GitHub</a></p>
 
@@ -107,7 +107,7 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 <img src="assets/images/android_app.png" alt="SUP App Interface" style="float: left; width: 200px; margin: 1rem 2rem 1rem 2rem; border-radius: 8px;">
 
 
-<p><strong>Technologies:</strong> Android, Java, GPS</p>
+<p><strong>Technologies:</strong> Flutter, Android, Maps API, GPS</p>
 <p>A mobile app that helps stand-up paddleboard enthusiasts find good spots based on weather conditions and user reviews.</p>
 <p><a href="https://github.com/paku2k/sup">View Project on GitHub</a></p>
 
@@ -124,11 +124,11 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 - **Programming:** Python, C/C++, MATLAB/Simulink, Java
 - **Robotics:** Computer Vision, SLAM, ROS2, Sensor Fusion
 - **AI/ML:** PyTorch, TensorFlow, Reinforcement Learning
-- **Hardware:** Arduino, Raspberry Pi, STM32, Embedded Systems
+- **Hardware:** Arduino, Raspberry Pi, Embedded Systems
 - **Automotive:** CAN Bus, ECU Development
 
 ---
 
 ## Other Interests
 
-I run a drone photography company called Imageflight and enjoy outdoor activities like volleyball. These experiences outside of engineering often provide fresh perspectives for technical problem-solving.
+I run a drone photography company called Imageflight and enjoy outdoor activities like volleyball, hiking and climbing.
