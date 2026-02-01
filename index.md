@@ -18,6 +18,10 @@ title: Portfolio
 * [View Repository →](https://github.com/yourhandle/project-link)
 
 ### **Real-time Object Tracking with OpenCV**
+<video width="100%" height="auto" autoplay loop muted playsinline poster="assets/thumbnail.jpg">
+  <source src="./assets/my-robot-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 > **Key Tech:** Python, OpenCV, YOLOv8
 * Implemented a vision pipeline to track high-speed objects for [specific use case].
 * Achieved 30 FPS processing on a Raspberry Pi 4 using quantization techniques.
