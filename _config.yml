@@ -1,10 +1,10 @@
-title: Your Name
-description: Robotics & Computer Vision Student
-remote_theme: pages-themes/minimal@v0.2.0
+title: Simon Pauka
+description: Mechatronics & Robotics Engineer
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
 # Social links for the sidebar
 google_analytics: 
-github_username: your-github-handle
-linkedin_username: your-linkedin-handle
+github_username: paku2k
+linkedin_username: simon-pauka-053406154
