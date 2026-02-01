@@ -19,7 +19,7 @@ title: Portfolio
 
 ### **Real-time Object Tracking with OpenCV**
 <video width="100%" height="auto" autoplay loop muted playsinline poster="assets/thumbnail.jpg">
-  <source src="./assets/my-robot-video.mp4" type="video/mp4">
+  <source src="./assets/videos/bird_detector_1.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 > **Key Tech:** Python, OpenCV, YOLOv8
