@@ -5,29 +5,29 @@
 
 /* Custom heading colors */
 h1 {
-  color: #2c3e50; /* Dark blue-gray */
+  color: #1565c0; /* Dark blue */
 }
 
 h2 {
-  color: #34495e; /* Slightly lighter blue-gray */
+  color: #2e7d32; /* Dark green */
 }
 
 h3 {
-  color: #5d6d7e; /* Medium gray-blue */
+  color: #d84315; /* Dark orange */
 }
 
 h4 {
-  color: #707b8c; /* Lighter gray-blue */
+  color: #6a1b9a; /* Purple */
 }
 
 h5, h6 {
-  color: #85929e; /* Light gray */
+  color: #37474f; /* Dark gray */
 }
 
 /* Optional: Add hover effects */
 h1:hover, h2:hover, h3:hover, h4:hover {
-  color: #3498db; /* Light blue on hover */
-  transition: color 0.3s ease;
+  opacity: 0.8;
+  transition: opacity 0.3s ease;
 }
 
 /* Optional: Style the main title differently */

@@ -69,41 +69,51 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 ### Bird Detection System
 
-<video width="100%" height="auto" autoplay loop muted playsinline style="border-radius: 8px; margin: 1rem 0;">
-  <source src="videos/bird_detector_1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<div style="display: flex; align-items: center; margin: 1rem 0;">
-  <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 200px; margin-right: 1.5rem; border-radius: 8px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <p><strong>Technologies:</strong> Python, OpenCV, YOLOv8</p>
-    <p>A bird detection and tracking system using real-time computer vision with an automated pan-tilt mechanism for following detected birds.</p>
-    <p><a href="https://github.com/paku2k/bird_detector">View Project on GitHub</a></p>
+    <video width="100%" height="250px" autoplay loop muted playsinline style="border-radius: 8px; object-fit: cover;">
+      <source src="videos/bird_detector_1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div>
+    <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
+
+<p><strong>Technologies:</strong> Python, OpenCV, YOLOv8</p>
+<p>A bird detection and tracking system using real-time computer vision with an automated pan-tilt mechanism for following detected birds.</p>
+<p><a href="https://github.com/paku2k/bird_detector">View Project on GitHub</a></p>
 
 ### Automated Chicken Door
 
-<div style="display: flex; align-items: center; margin: 2rem 0;">
-  <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 200px; margin-right: 1.5rem; border-radius: 8px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <p><strong>Technologies:</strong> Arduino, IoT, Sensors</p>
-    <p>An automated chicken coop door system that opens and closes based on light conditions, with remote monitoring capabilities.</p>
-    <p><a href="https://github.com/paku2k/Eggvault_dev">View Project on GitHub</a></p>
+    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+  </div>
+  <div>
+    <img src="assets/images/car_engine_overview.jpg" alt="Technical Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
+
+<p><strong>Technologies:</strong> Arduino, IoT, Sensors</p>
+<p>An automated chicken coop door system that opens and closes based on light conditions, with remote monitoring capabilities.</p>
+<p><a href="https://github.com/paku2k/Eggvault_dev">View Project on GitHub</a></p>
 
 ### SUP Spot Finder App
 
-<div style="display: flex; align-items: center; margin: 2rem 0;">
-  <img src="assets/images/android_app.png" alt="SUP App Interface" style="width: 200px; margin-right: 1.5rem; border-radius: 8px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <p><strong>Technologies:</strong> Android, Java, GPS</p>
-    <p>A mobile app that helps stand-up paddleboard enthusiasts find good spots based on weather conditions and user reviews.</p>
-    <p><a href="https://github.com/paku2k/sup">View Project on GitHub</a></p>
+    <img src="assets/images/android_app.png" alt="SUP App Interface" style="width: 100%; height: 250px; object-fit: contain; border-radius: 8px; background-color: #f5f5f5;">
+  </div>
+  <div>
+    <img src="assets/images/profile_picture.webp" alt="Outdoor Activities" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
+
+<p><strong>Technologies:</strong> Android, Java, GPS</p>
+<p>A mobile app that helps stand-up paddleboard enthusiasts find good spots based on weather conditions and user reviews.</p>
+<p><a href="https://github.com/paku2k/sup">View Project on GitHub</a></p>
 
 ---
 
