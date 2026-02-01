@@ -30,7 +30,7 @@ I'm a mechatronics engineer with 6 years experience in the commercial vehicle in
 
 ## Academic Research
 
-### Master's Thesis: Reinforcement Learning for Autonomous Vehicles
+### Master's Thesis: Reinforcement Learning for Controller Optimization
 
 <img src="assets/images/RL_controller_structure_actor_critic.png" alt="RL Controller Structure" style="width: 100%; max-width: 600px; margin: 1rem 0; border-radius: 8px;">
 
@@ -46,18 +46,18 @@ I worked on object detection algorithms for point cloud data from RADAR and LIDA
 
 ## Current Research
 
-### Institut für integrierte Produktion Hannover (IPH)
+### Institute for Integrated Production (IPH)
 
 I'm currently working on [automation of manipulation tasks](https://www.iph-hannover.de/en/press/press-releases/index.php?we_objectID=6905) using computer vision and robotics. My work focuses on:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <img src="assets/images/Motor_Inspector_overview.png" alt="Multi-view Sensor Processing" style="height: 100%; border-radius: 8px;">
+    <img src="assets/images/Motor_Inspector_overview.png" alt="Multi-view Sensor Processing" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px">
     <h4>Testing RGB-D Camera Data-Streams in Simulation</h4>
     <p>Creating simulation environments for testing computer vision strategies before real-world implementation.</p>
   </div>
   <div>
-    <img src="assets/images/Motor_Inspector_detailed_view.png" alt="Simulation Environment" style="height: 100%; border-radius: 8px;">
+    <img src="assets/images/Motor_Inspector_detailed_view.png" alt="Simulation Environment" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px">
     <h4>Multi-view Sensor Data Processing</h4>
     <p>Developing algorithms for processing data from multiple camera perspectives to enable object recognition and manipulation.</p>
   </div>
@@ -71,13 +71,13 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <video width="100%" height="250px" autoplay loop muted playsinline style="border-radius: 8px; object-fit: cover;">
+    <video width="100%" height="300px" autoplay loop muted playsinline style="border-radius: 8px; object-fit: cover;">
       <source src="videos/bird_detector_1.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
   <div>
-    <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/bird_detector_turret.png" alt="Bird Detector Hardware" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
@@ -92,7 +92,7 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
     <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
   </div>
   <div>
-    <img src="assets/images/car_engine_overview.jpg" alt="Technical Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
@@ -102,14 +102,8 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 ### SUP Spot Finder App
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
-  <div>
-    <img src="assets/images/android_app.png" alt="SUP App Interface" style="width: 100%; height: 250px; object-fit: contain; border-radius: 8px; background-color: #f5f5f5;">
-  </div>
-  <div>
-    <img src="assets/images/profile_picture.webp" alt="Outdoor Activities" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
-  </div>
-</div>
+<img src="assets/images/android_app.png" alt="SUP App Interface" style="float: left; width: 200px; margin: 0 0 1rem 2rem; border-radius: 8px;">
+
 
 <p><strong>Technologies:</strong> Android, Java, GPS</p>
 <p>A mobile app that helps stand-up paddleboard enthusiasts find good spots based on weather conditions and user reviews.</p>
