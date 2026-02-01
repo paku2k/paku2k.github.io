@@ -24,7 +24,7 @@ title: Simon Pauka - Robotics Engineer
 
 I've always been interested in technology, from joining a robotics team and building my own LEGO Robots as a kid to working on my campervan's engine. This interest led me to study mechatronics and robotics, where I can combine mechanical engineering, electronics, and software development.
 
-I'm a mechatronics engineer with 6 years experience in the commercial vehicle industry, focusing on autonomous systems and machine learning. I enjoy working on projects that connect theoretical concepts with practical applications.
+I'm a mechatronics engineer with 6 years experience in the commercial vehicle industry, focusing on robotics and machine learning. I enjoy working on projects that connect theoretical concepts with practical applications.
 
 <div class="clear-float"></div>
 
@@ -42,20 +42,20 @@ For my master's thesis, I worked on reinforcement learning approaches for contro
 
 <img src="assets/images/Point_cloud.png" alt="Point Cloud Processing" style="width: 75%; max-width: 400px; margin: 1rem 0; border-radius: 8px;">
 
-I worked on object detection algorithms for point cloud data from RADAR and LIDAR sensors. This project helped me develop skills in computer vision and sensor fusion.
+I worked on deep learning based object detection algorithms for point cloud data from RADAR and LIDAR sensors. This project helped me develop skills in deep learning and sensor fusion.
 
 ---
 
 ## Current Research
 
-### Institute for Integrated Production (IPH)
+### [Institute for Integrated Production (IPH)](https://www.iph-hannover.de/en/)
 
 I'm currently working on [automation of manipulation tasks](https://www.iph-hannover.de/en/press/press-releases/index.php?we_objectID=6905) using computer vision and robotics. My work focuses on:
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
     <img src="assets/images/Motor_Inspector_overview.png" alt="Multi-view Sensor Processing" style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px">
-    <h4>Testing RGB-D Camera Data-Streams in Simulation</h4>
+    <h4>Simulative development of CV-Methods</h4>
     <p>Creating simulation environments for testing computer vision strategies before real-world implementation.</p>
   </div>
   <div>
@@ -67,7 +67,7 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 ---
 
-## Recent Projects
+## Recent Private Projects
 
 ### Bird Detection System
 
@@ -91,10 +91,10 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door.jpg" alt="Automated Chicken Door" style="width: 100%; height: 550px; object-fit: cover; border-radius: 8px;">
   </div>
   <div>
-    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 500px; object-fit: cover; border-radius: 8px;">
+    <img src="assets/images/chicken_door_detail.jpg" alt="Technical Setup" style="width: 100%; height: 550px; object-fit: cover; border-radius: 8px;">
   </div>
 </div>
 
