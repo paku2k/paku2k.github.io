@@ -22,9 +22,9 @@ title: Simon Pauka - Robotics Engineer
 
 <img src="assets/images/car_engine.jpg" alt="Simon working on car engine" style="float: right; width: 300px; margin: 0 0 1rem 2rem; border-radius: 8px;">
 
-I've always been curious about how things work - from taking apart electronics as a kid to working on my campervan's engine today. This interest led me to study mechatronics and robotics, where I can combine mechanical engineering, electronics, and software development.
+I've always been interested in technology, from joining a robotics team and building my own LEGO Robots as a kid to working on my campervan's engine. This interest led me to study mechatronics and robotics, where I can combine mechanical engineering, electronics, and software development.
 
-I'm a mechatronics engineer with experience in the commercial vehicle industry, focusing on autonomous systems and machine learning. I enjoy working on projects that connect theoretical concepts with practical applications.
+I'm a mechatronics engineer with 6 years experience in the commercial vehicle industry, focusing on autonomous systems and machine learning. I enjoy working on projects that connect theoretical concepts with practical applications.
 
 ---
 
@@ -34,13 +34,13 @@ I'm a mechatronics engineer with experience in the commercial vehicle industry, 
 
 <img src="assets/images/RL_controller_structure_actor_critic.png" alt="RL Controller Structure" style="width: 100%; max-width: 600px; margin: 1rem 0; border-radius: 8px;">
 
-For my master's thesis at ZF Group, I worked on reinforcement learning approaches for autonomous vehicle motion control. I developed three RL methods using shallow actor and deep critic networks, which were validated in simulation and prepared for vehicle testing.
+For my master's thesis, I worked on reinforcement learning approaches for control applications. I developed three RL methods using shallow actor and deep critic networks, which were validated in different simulations.
 
 ### Research Project: Object Detection in Point Clouds
 
-<img src="assets/images/Point_cloud.png" alt="Point Cloud Processing" style="width: 100%; max-width: 600px; margin: 1rem 0; border-radius: 8px;">
+<img src="assets/images/Point_cloud.png" alt="Point Cloud Processing" style="width: 75%; max-width: 400px; margin: 1rem 0; border-radius: 8px;">
 
-I worked on object detection algorithms for point cloud data from RADAR and LIDAR sensors. This project helped me develop skills in computer vision and sensor fusion for autonomous driving applications.
+I worked on object detection algorithms for point cloud data from RADAR and LIDAR sensors. This project helped me develop skills in computer vision and sensor fusion.
 
 ---
 
@@ -52,14 +52,14 @@ I'm currently working on [automation of manipulation tasks](https://www.iph-hann
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1.5rem 0;">
   <div>
-    <img src="assets/images/Motor_Inspector_overview.png" alt="Multi-view Sensor Processing" style="width: 100%; border-radius: 8px;">
-    <h4>Multi-view Sensor Data Processing</h4>
-    <p>Developing algorithms for processing data from multiple camera perspectives to enable object recognition and manipulation.</p>
+    <img src="assets/images/Motor_Inspector_overview.png" alt="Multi-view Sensor Processing" style="height: 100%; border-radius: 8px;">
+    <h4>Testing RGB-D Camera Data-Streams in Simulation</h4>
+    <p>Creating simulation environments for testing computer vision strategies before real-world implementation.</p>
   </div>
   <div>
-    <img src="assets/images/Motor_Inspector_detailed_view.png" alt="Simulation Environment" style="width: 100%; border-radius: 8px;">
-    <h4>Simulation Environments</h4>
-    <p>Creating simulation environments for testing robotic manipulation strategies before real-world implementation.</p>
+    <img src="assets/images/Motor_Inspector_detailed_view.png" alt="Simulation Environment" style="height: 100%; border-radius: 8px;">
+    <h4>Multi-view Sensor Data Processing</h4>
+    <p>Developing algorithms for processing data from multiple camera perspectives to enable object recognition and manipulation.</p>
   </div>
 </div>
 
