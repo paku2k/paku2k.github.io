@@ -1,0 +1,155 @@
+Simon Pauka
+
+
+simon.pauka@gmail.com
++49 1523 4231606
+Hannover, Germany
+https://linkedin.com/in/simon-pauka-053406154
+
+
+
+------------------------
+Mechatronics & Robotics Engineer
+
+
+------------------------
+Mechatronics and Robotics Engineer with 6 years of experience in the commercial vehicle industry, specializing in autonomous systems and machine learning. Strong communicator and strategic thinker with proven ability to deliver client-focused technical solutions in dynamic, multidisciplinary settings.
+
+
+Work Experience
+------------------------
+Master’s Thesis in Autonomous Driving
+ZF Group
+03/2024 - 09/2024
+Achievements/Tasks
+- Evaluated machine learning approaches for motion control. 
+- Developed three novel reinforcement learning approaches. 
+- Validated models in simulation and prepared vehicle tests. 
+
+
+
+Dual Student and Systems Engineer in Electronic Braking Systems
+ZF Group
+03/2022 - 02/2024
+Achievements/Tasks
+- Designed electronic braking system solutions (Patents DE102023200458B4 and  DE102022213834A1).https://patents.google.com/?inventor=Simon+Pauka 
+- Designed and tested features for anti-lock braking systems. 
+- Modified and used test benches and test vehicles for brake system testing on the company test-track. 
+
+
+
+Co-Founder & Business Operations Lead
+Imageflight
+05/2018 - Present
+Drone photography company, serving clients across Germany.
+Achievements/Tasks
+-  Planned and executed 100+ commercial drone operations in videography, photography, and mapping.  
+- Built and maintained a client base across real estate, industrial, and academic sectors. 
+
+
+
+
+
+
+Education
+------------------------
+Master of Science Mechatronics & Robotics
+Leibniz University Hannover
+04/2022 - 03/2025
+Grade: 1,0
+Master Thesis
+- <b>Master</b><b>’s</b> <b> Thesis: </b>Reinforcement learning-based motion control of autonomous trucks with a focus on safety. 
+- <b>Research Project: </b>Deep learning for object detection in RADAR and LIDAR data for autonomous driving. 
+- <b>Courses: </b>Robotics, Machine Learning, Computer Vision, SLAM, Automotive Systems, Sensor Technology. 
+
+
+Bachelor of Engineering Mechatronics
+Hochschule Hannover
+09/2018 - 02/2022
+Grade: 1,0
+Courses
+- <b>Bachelor’s</b><b> Thesis: </b>Development of a coupling force-based brake controller for tractor-trailer braking systems. 
+- <b>Group Project:</b> Coordination and team leadership in the development of a test bench for brake system testing. 
+- <b>Courses: </b>Control Theory, Simulation, Electrical Engineering, Mechanical Engineering, C and Java Programming. 
+
+
+
+
+
+Skills
+------------------------
+-Python
+-C / C++
+-MATLAB / Simulink
+-Git
+-Machine Learning (SL, RL, Pytorch, TensorFlow)
+-Robotics (Computer Vision, SLAM, Kinematics)
+-Automotive (Sensor, ECU, Vector/CAN)
+-Creative and solution-oriented thinking
+-Independent and efficient work style
+
+
+
+Extracurricular activities
+------------------------
+Side projects in App Development, Embedded Programming, and PCB Design
+05/2018 - Present
+
+
+Study abroad at the Universitat Politècnica de València, Spain
+09/2024 - 03/2025
+
+
+High School Exchange to Otaki, New Zealand
+07/2015 - 12/2015
+
+
+Part of the robotics programming team "I-Bots"
+01/2011 - 05/2018
+
+
+
+
+
+Achievements
+------------------------
+Dr. Jürgen and Irmgard Ulderup Award
+01/2026
+Award for outstanding academic achievement in the Master’s thesis
+
+
+Germany Scholarship
+10/2022 - 09/2023
+Award presented by the German Federal Ministry of Education and Research for outstanding academic performance and social engagement
+
+
+Award for best student of the year
+12/2020
+Award presented by Hochschule Hannover's sponsoring association
+
+
+Award for excellent achievements in physics
+05/2018
+Award presented by "Deutsche Physikalische Gesellschaft"
+
+
+
+
+
+Languages
+------------------------
+-German- (100/100)
+-English- (80/100)
+-Spanish- (40/100)
+
+
+
+Interests
+------------------------
+-Videography
+-DIY
+-Volleyball
+-Outdoor
+
+
+
